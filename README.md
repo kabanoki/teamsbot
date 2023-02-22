@@ -1,2 +1,21 @@
-# teamsbot
- 
+# PHP で通知する
+
+## 解説
+
+[PHP で作る Teams への通知 Bot | カバの樹](https://github.com/kabanoki/teamsbot/blob/main/image.php)
+
+## テキストを POST する
+
+[https://github.com/kabanoki/teamsbot/blob/main/index.php](https://github.com/kabanoki/teamsbot/blob/main/index.php)
+
+## テキストに装飾をする
+
+[https://github.com/kabanoki/teamsbot/blob/main/adaptivecards.php](https://github.com/kabanoki/teamsbot/blob/main/adaptivecards.php)
+
+## メンションを送る
+
+[https://github.com/kabanoki/teamsbot/blob/main/mention.php](https://github.com/kabanoki/teamsbot/blob/main/mention.php)
+
+## 画像を送る
+
+[https://github.com/kabanoki/teamsbot/blob/main/image.php](https://github.com/kabanoki/teamsbot/blob/main/image.php)
