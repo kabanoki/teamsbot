@@ -1,6 +1,7 @@
 # PHP で作る Teams への通知 Bot | カバの樹
 
-解説
+##
+
 [https://github.com/kabanoki/teamsbot/blob/main/image.php](https://github.com/kabanoki/teamsbot/blob/main/image.php)
 
 ## テキストを POST する
