@@ -2,7 +2,7 @@
 
 ## 解説
 
-[https://www.kabanoki.net/9730/p](https://www.kabanoki.net/9730/)
+[https://www.kabanoki.net/9730/](https://www.kabanoki.net/9730/)
 
 ## テキストを POST する
 
